@@ -8,20 +8,20 @@ Fernell Ventures Ltd is a web app development company focused on creating innova
 
 ## Products
 
-### 1. It's Your Hub
-A centralized platform for school management and collaboration, streamlining daily operations and keeping teams connected.
+### 1. Your School Hub
+Transforms school risk assessments from paper chaos into streamlined digital workflows. Designed for headteachers, safeguarding leads, and MAT leadership teams with automated review tracking and compliance reporting.
 
 ### 2. Indie Schools
-Tailored solutions for independent schools, managing admissions, student data, and administrative tasks.
+The UK's digital marketplace connecting families with independent schools. Parents discover and compare schools, while schools receive qualified enquiries and streamline their admissions pipeline.
 
 ### 3. Hunter
-Advanced data tracking and analysis tool for hunting down insights from school data.
+A Hide and Seek game supported by tech. An innovative approach to physical activity and outdoor learning combining traditional playground games with modern technology.
 
 ### 4. Learning Walk
-Professional development and classroom observation platform supporting teachers with structured feedback.
+A multiplatform web app allowing School Leaders and Middle Management to carry out and log Learning Walks in one place. Also works as a tool for site walks and report generation.
 
-### 5. ECT Develop
-Early Career Teacher development program with structured mentoring and progress tracking.
+### 5. ECT Journey
+Helps schools manage the two-year teacher induction process with ease. ECTs capture evidence on-the-go, mentors save hours on admin, and induction tutors get one-click Appropriate Body reporting.
 
 ## Website Structure
 
